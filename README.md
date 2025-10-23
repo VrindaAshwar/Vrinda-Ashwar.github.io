@@ -1,4 +1,3 @@
-# Vrinda-Ashwar.github.io
 
 <!-- Pink Themed Portfolio README -->
 
