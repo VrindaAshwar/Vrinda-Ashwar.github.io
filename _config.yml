@@ -1,0 +1,12 @@
+title: "My Pink Portfolio"
+description: "Showcasing my beautiful project 🌸"
+theme: minima
+
+# Optional: customize colors and style
+sass:
+  style: compressed
+
+# Author info
+author:
+  name: Your Name
+  email: your@email.com
